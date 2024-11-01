@@ -1,0 +1,71 @@
+{
+  "products": [
+    {
+      "name": "Ghế xoay văn phòng Como C84B-G",
+      "price": 1.69,
+      "category": "1",
+      "image": {},
+      "title": "Ghế xoay văn phòng Como C84B-G",
+      "frame": "Khung lưng kết hợp giữa vật liệu Polypropylene + Fiberglass, tăng độ bền chắc, không biến dạng, an toàn với sức khỏe người dùng; trọng lượng nhẹ, phù hợp di chuyển",
+      "armrest": "Lưng đệm ghế bằng vải lưới thoáng mát, ghế thiết kế công thái học hỗ trợ tư thế ngồi chuẩn cho người dùng",
+      "seatCushion": "Tay ghế cố định uốn cong nâng đỡ hai tay, giúp khuỷu tay không bị nâng lên quá cao khiến cơ vai, cơ cổ bị kéo căng, tránh được tình trạng cứng cơ tay, mỏi vai- gáy, mà vẫn đạt được hiệu quả nâng đỡ cánh tay người ngồi",
+      "seatPlate": "Sử dụng thủy lực khí nén class 3 chống cháy nổ đạt tiêu chuẩn BIFMA",
+      "hydraulic": "Chân ghế nhựa PP 330mm bền chắc, chịu lực tốt",
+      "chairLeg": "Chân ghế nhựa PP 330mm bền chắc, chịu lực tốt",
+      "wheels": "Sử dụng thủy lực khí nén class 3 chống cháy nổ đạt tiêu chuẩn BIFMA",
+      "createdAt": 1730449437336,
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "username": "12345",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "createdAt": 1730272213213,
+      "id": 1
+    },
+    {
+      "username": "123456",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "createdAt": 1730276615985,
+      "id": 2
+    },
+    {
+      "username": "123123",
+      "password": "123123",
+      "confirmPassword": "123123",
+      "createdAt": 1730294369210,
+      "id": 3
+    },
+    {
+      "username": "1231233",
+      "password": "1231231",
+      "confirmPassword": "1231231",
+      "createdAt": 1730294385551,
+      "id": 4
+    },
+    {
+      "username": "12",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "createdAt": 1730294536507,
+      "id": 5
+    },
+    {
+      "username": "1223321",
+      "password": "123123123123",
+      "confirmPassword": "123123123123",
+      "createdAt": 1730294554979,
+      "id": 6
+    },
+    {
+      "username": "12345678",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "createdAt": 1730452931034,
+      "id": 7
+    }
+  ]
+}
