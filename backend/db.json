@@ -1,20 +1,21 @@
 {
   "products": [
     {
-      "name": "123",
-      "price": 132,
+      "name": "bánh mì",
+      "price": 1000,
       "category": "",
-      "image": "C:\\fakepath\\Json-server.postman_collection (1).json",
-      "title": "13",
-      "frame": "1231",
-      "armrest": "23123",
-      "seatCushion": "123123",
-      "seatPlate": "123123",
-      "hydraulic": "123123",
-      "chairLeg": "231",
-      "wheels": "132",
-      "createdAt": 1730532380185,
-      "id": 1
+      "image": "C:\\fakepath\\iphone-13-xanh-la-thumb-new-600x600.jpg",
+      "title": "bánh mì ",
+      "frame": "jasdhja",
+      "armrest": "ádjhasdj",
+      "seatCushion": "ạkdhs",
+      "seatPlate": "ádhjk",
+      "hydraulic": "ádasd",
+      "chairLeg": "ádasd",
+      "wheels": "ádasda",
+      "createdAt": 1730715455543,
+      "id": 1,
+      "userId": 1
     },
     {
       "name": "bánh mì",
@@ -30,7 +31,8 @@
       "chairLeg": "ádasd",
       "wheels": "ádasda",
       "createdAt": 1730715455543,
-      "id": 2
+      "id": 2,
+      "userId": 2
     }
   ],
   "users": [
@@ -38,10 +40,12 @@
       "username": "hongson",
       "phone": "0769863875",
       "address": "144 nguyễn lương bằng",
-      "password": "123456",
+      "password": "1234567",
       "isAdmin": true,
       "createdAt": 1730697567568,
-      "id": 1
+      "id": 1,
+      "userId": 1,
+      "product": []
     },
     {
       "username": "1",
@@ -49,8 +53,96 @@
       "address": "hòa khánh",
       "password": "123456",
       "isAdmin": false,
-      "createdAt": 1730715793076,
-      "id": 2
+      "createdAt": 1730715455543,
+      "userId": 2,
+      "id": 2,
+      "product": [
+        {
+          "name": "bánh mì",
+          "price": 1000,
+          "category": "",
+          "image": "C:\\fakepath\\iphone-13-xanh-la-thumb-new-600x600.jpg",
+          "title": "bánh mì ",
+          "frame": "jasdhja",
+          "armrest": "ádjhasdj",
+          "seatCushion": "ạkdhs",
+          "seatPlate": "ádhjk",
+          "hydraulic": "ádasd",
+          "chairLeg": "ádasd",
+          "wheels": "ádasda",
+          "createdAt": 1730715455543,
+          "id": 1,
+          "userId": 1
+        },
+        {
+          "name": "bánh mì",
+          "price": 1000,
+          "category": "",
+          "image": "C:\\fakepath\\iphone-13-xanh-la-thumb-new-600x600.jpg",
+          "title": "bánh mì ",
+          "frame": "jasdhja",
+          "armrest": "ádjhasdj",
+          "seatCushion": "ạkdhs",
+          "seatPlate": "ádhjk",
+          "hydraulic": "ádasd",
+          "chairLeg": "ádasd",
+          "wheels": "ádasda",
+          "createdAt": 1730715455543,
+          "id": 1,
+          "userId": 1
+        },
+        {
+          "name": "bánh mì",
+          "price": 1000,
+          "category": "",
+          "image": "C:\\fakepath\\iphone-13-xanh-la-thumb-new-600x600.jpg",
+          "title": "bánh mì ",
+          "frame": "jasdhja",
+          "armrest": "ádjhasdj",
+          "seatCushion": "ạkdhs",
+          "seatPlate": "ádhjk",
+          "hydraulic": "ádasd",
+          "chairLeg": "ádasd",
+          "wheels": "ádasda",
+          "createdAt": 1730715455543,
+          "id": 1,
+          "userId": 1
+        },
+        {
+          "name": "bánh mì",
+          "price": 1000,
+          "category": "",
+          "image": "C:\\fakepath\\iphone-13-xanh-la-thumb-new-600x600.jpg",
+          "title": "bánh mì ",
+          "frame": "jasdhja",
+          "armrest": "ádjhasdj",
+          "seatCushion": "ạkdhs",
+          "seatPlate": "ádhjk",
+          "hydraulic": "ádasd",
+          "chairLeg": "ádasd",
+          "wheels": "ádasda",
+          "createdAt": 1730715455543,
+          "id": 1,
+          "userId": 1
+        },
+        {
+          "name": "bánh mì",
+          "price": 1000,
+          "category": "",
+          "image": "C:\\fakepath\\iphone-13-xanh-la-thumb-new-600x600.jpg",
+          "title": "bánh mì ",
+          "frame": "jasdhja",
+          "armrest": "ádjhasdj",
+          "seatCushion": "ạkdhs",
+          "seatPlate": "ádhjk",
+          "hydraulic": "ádasd",
+          "chairLeg": "ádasd",
+          "wheels": "ádasda",
+          "createdAt": 1730715455543,
+          "id": 1,
+          "userId": 1
+        }
+      ]
     }
   ]
 }
