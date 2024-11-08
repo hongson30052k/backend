@@ -14,25 +14,71 @@
       "chairLeg": "ádasd",
       "wheels": "ádasda",
       "createdAt": 1730715455543,
-      "id": 1,
-      "userId": 1
+      "id": 2
     },
     {
-      "name": "bánh mì",
-      "price": 1000,
+      "name": "bánh bèo ",
+      "price": 2000,
+      "category": "",
+      "image": "C:\\fakepath\\oppo-reno8-5g-200x200.webp",
+      "title": "123",
+      "frame": "123",
+      "armrest": "123",
+      "seatCushion": "132",
+      "seatPlate": "13123",
+      "hydraulic": "132",
+      "chairLeg": "312312",
+      "wheels": "123123",
+      "createdAt": 1730969766348,
+      "id": 3
+    },
+    {
+      "name": "bánh chưng",
+      "price": 2400,
+      "category": "",
+      "image": "C:\\fakepath\\8184e035-3afd-4721-9feb-dadd1a6fe142.jpg",
+      "title": "2",
+      "frame": "2",
+      "armrest": "3",
+      "seatCushion": "3",
+      "seatPlate": "4",
+      "hydraulic": "4",
+      "chairLeg": "4",
+      "wheels": "4",
+      "createdAt": 1730992324341,
+      "id": 4
+    },
+    {
+      "name": "bánh cuộn",
+      "price": 3200,
+      "category": "",
+      "image": "C:\\fakepath\\honor-x8b-green-thumb-1-600x600.jpg",
+      "title": "1",
+      "frame": "2",
+      "armrest": "12",
+      "seatCushion": "1",
+      "seatPlate": "1",
+      "hydraulic": "2",
+      "chairLeg": "2",
+      "wheels": "2",
+      "createdAt": 1730992357811,
+      "id": 5
+    },
+    {
+      "name": "bánh kẹp",
+      "price": 1400,
       "category": "",
       "image": "C:\\fakepath\\iphone-13-xanh-la-thumb-new-600x600.jpg",
-      "title": "bánh mì ",
-      "frame": "jasdhja",
-      "armrest": "ádjhasdj",
-      "seatCushion": "ạkdhs",
-      "seatPlate": "ádhjk",
-      "hydraulic": "ádasd",
-      "chairLeg": "ádasd",
-      "wheels": "ádasda",
-      "createdAt": 1730715455543,
-      "id": 2,
-      "userId": 2
+      "title": "kep",
+      "frame": "2",
+      "armrest": "3",
+      "seatCushion": "1",
+      "seatPlate": "1",
+      "hydraulic": "2",
+      "chairLeg": "2",
+      "wheels": "2",
+      "createdAt": 1730992388304,
+      "id": 6
     }
   ],
   "users": [
@@ -43,9 +89,7 @@
       "password": "1234567",
       "isAdmin": true,
       "createdAt": 1730697567568,
-      "id": 1,
-      "userId": 1,
-      "product": []
+      "id": 1
     },
     {
       "username": "1",
@@ -55,94 +99,33 @@
       "isAdmin": false,
       "createdAt": 1730715455543,
       "userId": 2,
-      "id": 2,
-      "product": [
-        {
-          "name": "bánh mì",
-          "price": 1000,
-          "category": "",
-          "image": "C:\\fakepath\\iphone-13-xanh-la-thumb-new-600x600.jpg",
-          "title": "bánh mì ",
-          "frame": "jasdhja",
-          "armrest": "ádjhasdj",
-          "seatCushion": "ạkdhs",
-          "seatPlate": "ádhjk",
-          "hydraulic": "ádasd",
-          "chairLeg": "ádasd",
-          "wheels": "ádasda",
-          "createdAt": 1730715455543,
-          "id": 1,
-          "userId": 1
-        },
-        {
-          "name": "bánh mì",
-          "price": 1000,
-          "category": "",
-          "image": "C:\\fakepath\\iphone-13-xanh-la-thumb-new-600x600.jpg",
-          "title": "bánh mì ",
-          "frame": "jasdhja",
-          "armrest": "ádjhasdj",
-          "seatCushion": "ạkdhs",
-          "seatPlate": "ádhjk",
-          "hydraulic": "ádasd",
-          "chairLeg": "ádasd",
-          "wheels": "ádasda",
-          "createdAt": 1730715455543,
-          "id": 1,
-          "userId": 1
-        },
-        {
-          "name": "bánh mì",
-          "price": 1000,
-          "category": "",
-          "image": "C:\\fakepath\\iphone-13-xanh-la-thumb-new-600x600.jpg",
-          "title": "bánh mì ",
-          "frame": "jasdhja",
-          "armrest": "ádjhasdj",
-          "seatCushion": "ạkdhs",
-          "seatPlate": "ádhjk",
-          "hydraulic": "ádasd",
-          "chairLeg": "ádasd",
-          "wheels": "ádasda",
-          "createdAt": 1730715455543,
-          "id": 1,
-          "userId": 1
-        },
-        {
-          "name": "bánh mì",
-          "price": 1000,
-          "category": "",
-          "image": "C:\\fakepath\\iphone-13-xanh-la-thumb-new-600x600.jpg",
-          "title": "bánh mì ",
-          "frame": "jasdhja",
-          "armrest": "ádjhasdj",
-          "seatCushion": "ạkdhs",
-          "seatPlate": "ádhjk",
-          "hydraulic": "ádasd",
-          "chairLeg": "ádasd",
-          "wheels": "ádasda",
-          "createdAt": 1730715455543,
-          "id": 1,
-          "userId": 1
-        },
-        {
-          "name": "bánh mì",
-          "price": 1000,
-          "category": "",
-          "image": "C:\\fakepath\\iphone-13-xanh-la-thumb-new-600x600.jpg",
-          "title": "bánh mì ",
-          "frame": "jasdhja",
-          "armrest": "ádjhasdj",
-          "seatCushion": "ạkdhs",
-          "seatPlate": "ádhjk",
-          "hydraulic": "ádasd",
-          "chairLeg": "ádasd",
-          "wheels": "ádasda",
-          "createdAt": 1730715455543,
-          "id": 1,
-          "userId": 1
-        }
-      ]
+      "id": 2
+    },
+    {
+      "username": "2",
+      "phone": "12",
+      "address": "123456",
+      "password": "123456",
+      "isAdmin": false,
+      "createdAt": 1730948670766,
+      "userId": 3,
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "id": 643.4723932672284,
+      "userId": 3,
+      "quantity": 9,
+      "productId": 2,
+      "createdAt": 1731046342747
+    },
+    {
+      "id": 303.38688556614454,
+      "userId": 3,
+      "quantity": 1,
+      "productId": 4,
+      "createdAt": 1731046703674
     }
   ]
 }
